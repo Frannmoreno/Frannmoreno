@@ -4,14 +4,20 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/105460828/197902463-6288eea5-d673-494b-90fe-c4f3f6d1a79a.png">
 
-## StoryTime ⚓📚:
--  I was studing to be an Navy Officer so I am vere determinated and passionated about the sea and sailing. I love reading about nature and history.
+
+
+📚 I’m currently learning Rust and Java.
+
+👾 Collaborate in the development of [Snor inn app](https://snor-inn.vercel.app/)
+
+⚓I'm a sailor and passionate about sea.
+
 
 
 ## About me in code 💻:
 ```js 
 const Frannmoreno = {
-  tecnologies: [HTML, CSS, JavaScript,
+  technologies: [HTML, CSS, JavaScript,
                React, Redux, Node, 
                Express, PostgreSQL, SQLite, 
                Sequelize, MongoDB, Mongoose],
@@ -19,6 +25,7 @@ const Frannmoreno = {
   }
 ```
 ## My GitHub stats 📈:
+
 ![Frannmoreno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frannmoreno&show_icons=true&theme=radical)
 
 ## Find me 📩!!!
@@ -32,11 +39,9 @@ const Frannmoreno = {
 </a>  
 </div>  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jhhpzhhg6c2yiuhim4pgt63uz&cover_image=false&theme=default&show_offline=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 <!---
 Frannmoreno/Frannmoreno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
