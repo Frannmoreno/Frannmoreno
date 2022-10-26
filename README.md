@@ -6,7 +6,7 @@
 
 
 
-📚 I’m currently learning Rust and Java.
+📚 I’m currently learning Rust and Nest.js.
 
 👾 Collaborate in the development of [Snor inn app](https://snor-inn.vercel.app/)
 
