@@ -18,8 +18,8 @@
 ```js 
 const Frannmoreno = {
   technologies: [HTML, CSS, JavaScript,
-               React, Redux, Node, 
-               Express, PostgreSQL, SQLite, 
+               React, Redux, Node.js, Bcrypt, 
+               Express.js, PostgreSQL, SQLite, 
                Sequelize, MongoDB, Mongoose],
   possition: "Full Stack Developer",
   }
